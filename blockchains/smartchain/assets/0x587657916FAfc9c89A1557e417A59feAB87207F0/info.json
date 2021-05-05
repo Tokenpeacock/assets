@@ -1,0 +1,11 @@
+{
+    "name": "peacock ",
+    "type": "BEP20",
+    "symbol": "PEAK",
+    "decimals": 8,
+    "website": "https://peacocktoken.com/",
+    "description": "peacock  is a Special tokens for freelancer payments .
+    "explorer": "https://bscscan.com/token/0x587657916FAfc9c89A1557e417A59feAB87207F0",
+    "status": "active",
+    "id": "0x587657916FAfc9c89A1557e417A59feAB87207F0"
+}
